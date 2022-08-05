@@ -2,7 +2,7 @@
   
 <h2>👨‍💻 Cypersecurity Projects:</h2>
 
-  - [Nessus Esstentials HomeLab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Nessus Esstentials HomeLab](https://github.com/HassanJrTraore/Nessus-Essentials-Home-Lab.git)
   - [SIEM with Azurze Sentinel](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📺 Popular YouTube Videos</h2>
