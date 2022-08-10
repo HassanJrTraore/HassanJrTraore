@@ -5,9 +5,9 @@
   - [Nessus Esstentials HomeLab](https://github.com/HassanJrTraore/Nessus-Essentials-Home-Lab.git)
   - [SIEM with Azurze Sentinel](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 C++ Coding Projects</h2>
 
--[Tutorial Nessus Esstentials HomeLab](https://youtu.be/pTxtQUhaGMk)
+- [C++ Temperature Project](https://github.com/HassanJrTraore/C-Temperature-Project)
 
 <h2> 🤳 Connect with me:</h2>
 
